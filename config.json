@@ -1,5 +1,5 @@
 {
-    "language": "en",
+    "language": "bangla",
     "keyActive": "",
     "DeveloperMode": false,
     "autoCreateDB": true,
@@ -16,10 +16,10 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️",
+    "BOTNAME": "ক্যান্ডি",
     "PREFIX": "/",
     "ADMINBOT": [
-        "100000478146113",
+        "100014600771304",
         "61576520552554",
         "61550035211214"
     ],
